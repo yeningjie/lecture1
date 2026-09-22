@@ -1,0 +1,5 @@
+﻿Analyzing main.dart...
+
+  error - main.dart:33:19 - The name 'NotExistPage' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+
+1 issue found.
